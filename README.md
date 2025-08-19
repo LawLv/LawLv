@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yilai Chen</h1>
+<h1 align="center">Yilai Chen</h1>
 
 - 🔭 Passionate about **Software Engineering**, **Data Science**, and **Distributed Systems**
 - 🏸 Hobbies: Tennis, Fitness, Swimming  
-- 📺 Interests: Watching movies, Coding, FPS games，Playing music  
+- 📺 Interests: Watching movies, Coding, FPS games, Playing music  
 - 📫 Reach me: yilai@kth.se  
 - 🎓 MSc student at **KTH Royal Institute of Technology**
 

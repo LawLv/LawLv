@@ -29,19 +29,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-![Yilai's GitHub stats](https://github-readme-stats.vercel.app/api?username=LawLv&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LawLv&layout=compact)
-
----
-
-### 💻 LeetCode
-
-[![LeetCode](https://leetcard.jacoblin.cool/LawLv?theme=unicorn&font=Baloo&ext=heatmap)](https://leetcode.com/LawLv)
-
----
-
 

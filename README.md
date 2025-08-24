@@ -29,4 +29,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="30" height="30"/>
 </p>
 
-

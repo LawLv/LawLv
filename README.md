@@ -2,7 +2,7 @@
 
 - 🔭 Passionate about **Software Engineering**, **Data Science**, and **Distributed Systems**
 - 🏸 Hobbies: Tennis, Fitness, Swimming  
-- 📺 Interests: Watching movies, Coding, FPS games, Playing music  
+- 📺 Interests: Watching movies, Coding, Cooking, Playing music  
 - 📫 Reach me: yilai@kth.se  
 - 🎓 MSc student at **KTH Royal Institute of Technology**
 
